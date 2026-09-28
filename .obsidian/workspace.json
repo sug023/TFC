@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo/Fases/Guias/0.1.0_Instalacion_arch.md",
+                "file": "Desarrollo/Fases/Guias/0.1.2_Configuracion_de_router_2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0.1.0_Instalacion_arch"
+              "title": "0.1.2_Configuracion_de_router_2"
+            }
+          },
+          {
+            "id": "4ca60392ce86f46d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desarrollo/Fases/Guias/0.1.0_instalacion_de_arch_linux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0.1.0_instalacion_de_arch_linux"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,25 +203,41 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "0f903b5cb62adce5",
+  "active": "4ca60392ce86f46d",
   "lastOpenFiles": [
+    "Desarrollo/Images/Instalacion_router/Instalacion_router_17.png",
+    "Desarrollo/Fases/Guias/0.1.0_instalacion_de_arch_linux.md",
+    "Desarrollo/Images/Instalacion_router/Instalacion_router_16.png",
+    "Desarrollo/Images/Instalacion_router/Instalacion_router_15.png",
+    "Desarrollo/Images/Instalacion_router/Instalacion_Router_14.png",
     "Desarrollo/Fases/Guias/0.1.1_Configuracion_de_router_1.md",
-    "Desarrollo/Images/Instalacion_router/Instalacion_router_01.png",
+    "Comprobación de la conexion a internet.md",
+    "Desarrollo/Images/Instalacion_router/Instalacion_router_13.png",
+    "vm/Router_1_arch/Router_1_arch.vbox-tmp",
+    "vm/Router_1_arch/Logs/VBox.log",
+    "vm/Router_1_arch/Logs",
+    "vm/Router_2_arch/Router_2_arch.vbox-tmp",
+    "Desarrollo/Images/Instalacion_router/iNSTALACION_ROUTER_12.png",
+    "Desarrollo/Images/Instalacion_router/Instalacion_router_11.png",
+    "vm/Router_2_arch/Router_2_arch.vbox-prev",
+    "vm/Router_2_arch/Router_2_arch.vbox",
+    "vm/Router_2_arch/Router_2_arch.vdi",
+    "vm/Router_2_arch",
+    "vm/Router_1_arch/Router_1_arch.vbox-prev",
+    "vm/Router_1_arch/Router_1_arch.vbox",
+    "Desarrollo/Fases/Fase_0.md",
+    "Desarrollo/Images/Diagramas/Comunicacion_entre_zonas_1.png",
+    "Desarrollo/Images/Diagramas/Comunicacion_entre_zonas_2.png",
+    "Desarrollo/Images/Diagramas/Objetivo_de_la_estructura.png",
+    "Desarrollo/Fases/Guias/0.1.2_Configuracion_de_router_2.md",
+    "0.1.0_Instalacion_arch.md",
+    "README.md",
     "Desarrollo/0_Estructura_de_red.md",
+    "Desarrollo/1_Requisitos_y_espectativas.md",
     "Desarrollo/Fases/Guias/0.1.0_Instalacion_arch.md",
     "Desarrollo/Images/Instalacion_router_Instalacion_router_01.md",
     "Desarrollo/Images.md",
     "Desarrollo/Images 1.md",
-    "Images.md",
-    "vm/Router_1_casino_/Logs/VBoxHardening.log",
-    "vm/Router_1_casino_/Logs/VBox.log.2",
-    "vm/Router_1_casino_/Logs/VBox.log.1",
-    "vm/Router_1_casino_/Logs/VBox.log",
-    "vm/iso_ova/archlinux-x86_64.iso",
-    "vm/Router_1_casino_/Router_1_casino_.vbox-prev",
-    "vm/Router_1_casino_/Router_1_casino_.vbox",
-    "vm/Router_1_casino_/Router_1_casino .vdi",
-    "vm/Router_1_casino_/Router_1_casino .nvram",
-    "vm/Router_1_casino_/Logs"
+    "Images.md"
   ]
 }
