@@ -34,7 +34,7 @@ Router 1 dispondrá de una interfaz conectada a una red **NAT de VirtualBox**, p
 De esta forma, Router 1 actuará como punto de salida hacia Internet y como elemento de comunicación entre la DMZ y el Router 2.
 
 ### Topología Lógica
-![[Diagrama_principal.png]]
+![Diagrama principal](Images/Diagramas/Diagrama_principal.png)
 
 ### Redes utilizadas
 
