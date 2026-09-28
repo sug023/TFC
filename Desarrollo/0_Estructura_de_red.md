@@ -33,9 +33,9 @@ Router 1 dispondrá de una interfaz conectada a una red **NAT de VirtualBox**, p
 
 De esta forma, Router 1 actuará como punto de salida hacia Internet y como elemento de comunicación entre la DMZ y el Router 2.
 
-### Topología Lógica
-![Diagrama principal](Images/Diagramas/Diagrama_principal.png)
+### Diagrama de red
 
+![](Images/Diagramas/Diagrama_principal.png)
 ### Redes utilizadas
 
 Para mantener una separación clara entre los diferentes segmentos se utilizarán tres redes internas:
@@ -68,11 +68,12 @@ Usaremos una máscara de red **/30** para el enlace entre los routers, dado que 
 ### Comunicación entre zonas
 
 La comunicación entre los servidores no será directa. El tráfico entre el servidor web y el servidor de base de datos tendrá que atravesar ambos routers:
-![[Comunicacion_entre_zonas_1.png]]
+
+![](Images/Diagramas/Comunicacion_entre_zonas_1.png)
 
 Por otro lado, el tráfico destinado a Internet seguirá el siguiente recorrido:
 
-![[Comunicacion_entre_zonas_2.png]]
+![](Images/Diagramas/Comunicacion_entre_zonas_2.png)
 
 Router 1 será, por tanto, el **punto de salida a Internet de la infraestructura**.
 
@@ -84,7 +85,7 @@ Por ejemplo, el servidor web podrá acceder al servidor de base de datos mediant
 
 La separación física y lógica de los servidores permite conseguir una arquitectura más cercana a un entorno real:
 
-![[Objetivo_de_la_estructura.png]]
+![](Images/Diagramas/Objetivo_de_la_estructura.png)
 
 De esta manera, un posible compromiso del servidor web no implica automáticamente un acceso directo al servidor de base de datos. La comunicación entre las diferentes zonas queda controlada por los routers y sus reglas de filtrado.
 

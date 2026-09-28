@@ -6,7 +6,7 @@ En esta fase se documentará la instalación y configuración base de la estruct
 
 ## Configuración de router_1
 
-Para los routers vamos a usar la guía [[0.1_Instalacion_arch]].
+Para los routers vamos a usar la guía [[0.1.0_Instalacion_arch]].
 
 ## Importación de las OVAs
 
