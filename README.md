@@ -56,7 +56,7 @@ La interfaz está inspirada en la estética **Cyberpunk 2077 / Edgerunners**, ut
 
 ## Documentación
 
-La documentación técnica del proyecto se encuentra en el directorio [`docs/`](docs/).
+La documentación técnica del proyecto se encuentra en el directorio [`Desarrollo/`](Desarrollo/).
 
 En ella se recoge el proceso de instalación, configuración de la infraestructura, red, servidores y desarrollo de la aplicación.
 
